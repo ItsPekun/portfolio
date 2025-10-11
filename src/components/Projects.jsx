@@ -22,9 +22,9 @@ function Projects() {
         "Aplicación de escritorio para digitalizar el proceso de alquiler de flota vehicular, reemplazando el sistema obsoleto de libretas manuales.",
       contribution:
         "Implementación y mantenimiento. Gestión de dependencias con entornos virtuales y corrección de bugs críticos para garantizar estabilidad en producción.",
-      technologies: ["Python", "Tkinter", "MySQL", "SQLite3"],
+      technologies: ["Python", "Tkinter", "MySQL", "SQLite3", "Git"],
       status: "En Desarrollo",
-      githubLink: "#",
+      githubLink: "https://github.com/Blackbullet123/proyecto",
       liveDemoLink: null,
     },
   ];

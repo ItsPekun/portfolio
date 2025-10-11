@@ -8,7 +8,7 @@ function Skills() {
     },
     {
       title: "Backend",
-      skills: ["Node.js", "Express", "Django", "Flask", "Laravel", "PHP"],
+      skills: ["Node.js", "Express", "Django", "Flask", "Laravel"],
     },
     {
       title: "Bases de Datos",
