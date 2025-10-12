@@ -1,25 +1,7 @@
 import { motion } from "framer-motion";
+import { skillsData } from "../data/skillsData.js";
 
 function Skills() {
-  const skillCategories = [
-    {
-      title: "Frontend",
-      skills: ["React", "Next.js", "Tailwind CSS", "JavaScript"],
-    },
-    {
-      title: "Backend",
-      skills: ["Node.js", "Express", "Django", "Flask", "Laravel"],
-    },
-    {
-      title: "Bases de Datos",
-      skills: ["MongoDB", "MySQL", "SQLite3"],
-    },
-    {
-      title: "Herramientas",
-      skills: ["Git"],
-    },
-    
-  ];
   return (
     <section id="skills" className="py-20">
       <div className="container mx-auto px-6">
@@ -34,7 +16,7 @@ function Skills() {
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            {skillCategories.map((category, index) => (
+            {skillsData.map((category, index) => (
               <motion.div
                 key={category.title}
                 initial={{ opacity: 0, y: 30 }}
