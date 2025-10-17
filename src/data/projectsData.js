@@ -23,4 +23,16 @@ export const projectsData = [
       githubLink: "https://github.com/Blackbullet123/proyecto",
       liveDemoLink: null,
     },
+    {
+      id: 3,
+      title: "CRUD con Autenticación",
+      description:
+        "Aplicación web para el registro de tareas sencillas registradas pertenecientes a cada usuario registrado.",
+      contribution:
+        "Desarrollo e Implementación. Desarrollo del código fuente y adaptación para un despliegue con recursos limitados con el fin de adquirir experiencia en la fase de producción.",
+      technologies: ["MongoDB", "Express", "React", "Nodejs", "Git", "Github"],
+      status: "Finalizado",
+      githubLink: "https://github.com/ItsPekun/mern-crud-auth",
+      liveDemoLink: "https://github.com/ItsPekun/mern-crud-auth",
+    },
   ];

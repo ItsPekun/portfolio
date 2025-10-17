@@ -13,7 +13,7 @@ export const skillsData = [
     },
     {
       title: "Herramientas",
-      skills: ["Git"],
+      skills: ["Git", "Github"],
     },
     
   ];
