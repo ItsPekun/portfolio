@@ -9,7 +9,7 @@ export const skillsData = [
     },
     {
       title: "Bases de Datos",
-      skills: ["MongoDB", "MySQL", "SQLite3"],
+      skills: ["MongoDB", "MySQL", "PostgreSQL", "SQLite3"],
     },
     {
       title: "Herramientas",

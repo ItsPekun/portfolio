@@ -29,6 +29,13 @@ function Header() {
               Sobre Mí
             </Link>
             <Link
+              to="achievements"
+              {...scrollSettings}
+              className="text-gray-300 hover:text-white cursor-pointer transition-colors md:py-0"
+            >
+              Certificaciones
+            </Link>
+            <Link
               to="skills"
               {...scrollSettings}
               className="text-gray-300 hover:text-white cursor-pointer transition-colors md:py-0"
