@@ -22,7 +22,7 @@ function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-xl md:text-2xl text-gray-300 mb-8"
         >
-          TSU · Desarrollador Backend
+          Ingeniero en informática · Desarrollador Backend
         </motion.p>
 
         <motion.p

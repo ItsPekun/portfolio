@@ -15,5 +15,9 @@ export const skillsData = [
       title: "Herramientas",
       skills: ["Git", "Github"],
     },
+    {
+      title: "Otras habilidades",
+      skills: ["Redes básicas", "Ciberseguridad"],
+    },
     
   ];

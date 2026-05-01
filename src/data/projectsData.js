@@ -19,7 +19,7 @@ export const projectsData = [
       contribution:
         "Implementación y mantenimiento. Gestión de dependencias con entornos virtuales y corrección de bugs críticos para garantizar estabilidad en producción.",
       technologies: ["Python", "Tkinter", "MySQL", "SQLite3", "Git", "Github"],
-      status: "En Desarrollo",
+      status: "Completado",
       githubLink: "https://github.com/Blackbullet123/proyecto",
       liveDemoLink: null,
     },

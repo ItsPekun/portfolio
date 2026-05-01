@@ -34,5 +34,17 @@ export const achievementsData = [
     title: "Conceptos básicos de redes",
     company: "Cisco Networking Academy",
     year: 2025,
+  },
+  {
+    id: 7,
+    title: "Desarrollo con IA: de 0 a Producción",
+    company: "BIG School",
+    year: 2026,
+  },
+  {
+    id: 8,
+    title: "Ciberseguridad y Hacking Ético: técnicas de detección de vulnerabilidades y defensa digital",
+    company: "BIG School",
+    year: 2026,
   }
 ];

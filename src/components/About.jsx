@@ -16,11 +16,7 @@ function About() {
           </h2>
           <div className="bg-gray-800/50 rounded-2xl p-8 backdrop-blur-sm border border-gray-700">
             <p className="text-gray-300 text-lg leading-relaxed">
-              Soy TSU en Informática con fortaleza en el desarrollo backend,
-              especializado en la creación de APIs REST funcionales y
-              eficientes. Me apasiona encontrar soluciones tecnológicas que
-              resuelvan problemas reales, combinando lógica robusta con
-              interfaces atractivas.
+              Soy Ingeniero en Informática con fortaleza en el desarrollo backend, especializado en APIs REST eficientes. Me apasiona resolver problemas reales combinando lógica robusta, interfaces atractivas e inteligencia artificial que utilizo para abordar desafíos complejos con un enfoque analítico y automatizado. Complemento mi perfil con conocimientos básicos pero sólidos en redes y ciberseguridad, asegurando que las soluciones no solo funcionen, sino que también sean seguras y estén bien fundamentadas en su infraestructura de comunicación.
             </p>
           </div>
         </motion.div>
